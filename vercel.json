@@ -1,0 +1,17 @@
+{
+  "builds": [
+    {
+      "src": "dashboard_app.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "dashboard_app.py"
+    }
+  ],
+  "env": {
+    "PYTHONUNBUFFERED": "1"
+  }
+}
