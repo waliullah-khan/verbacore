@@ -2,7 +2,7 @@
 
 A comprehensive dashboard application for analyzing AI assistant conversations with hallucination detection, topic modeling, sentiment analysis, time series analysis, and text clustering.
 
-## 🌟 [Live Demo](https://ai-review-demo.vercel.app/)
+## 🌟
 
 ## Features
 
